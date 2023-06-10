@@ -1,4 +1,4 @@
-# Hello, I'm @Nikoldigital777!
+# Hello, I'm Nikol Digital
 
 Welcome to my GitHub profile. I'm an AI engineer and programmer currently focusing on learning Python and React. I'm passionate about exploring the possibilities of artificial intelligence and its applications in various fields.
 
