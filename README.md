@@ -19,7 +19,6 @@ I'm always open to collaborating on interesting projects related to AI, Python, 
 You can reach me through the following channels:
 
 - Email: collab@nikoldigital.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- Twitter: [@PulseFaerie]([https://Twitter.com/PulseFaerie]
 
 I'm looking forward to connecting with fellow AI enthusiasts, programmers, and anyone who shares a passion for technology and its potential to make a positive impact on the world. Let's learn, create, and grow together!
